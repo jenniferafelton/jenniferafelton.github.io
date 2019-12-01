@@ -4,7 +4,8 @@
 
 ### Projects
 
-[Project 1 Title](/sample_page)
+[Halloween Pumpkin Punter](https://youtu.be/9I2mWTbRupM)
+This is my first Unity project. It is based upon a group project from IESD. The goal is to reach all the tombstones while kicking pumpkins out of the way. I learned to create assets with actions and to create a custom first person camera that interacts with the environment. 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
