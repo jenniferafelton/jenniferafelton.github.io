@@ -20,9 +20,10 @@
 ### Publications
 
 - [Reducing the Gender Gap in Computer Science Field](https://docs.google.com/document/d/1boJjuz_EXl5NysF5Fk5IctrHRzbRVXD45aqqCzaP4W8/edit?usp=sharing)<br>
->This is the final paper for the anthropology elective I took. By examining the factors that contribute to this gender gap, steps can be taken to minimize them and encourage more women to choose the computer science field. 	
+>This is the final paper for the anthropology elective I took. By examining the factors that contribute to this gender gap, steps can be taken to minimize them and encourage more women to choose the computer science field. 	<br>
 
-- [Project 2 Title](http://example.com/)
+- [Geologic Treasure at the End of the Rainbow](https://docs.google.com/document/d/1YBmk2dLzxUQRxbssDXbBetKHuiNFJ9vJGA-3pGm-EzA/edit?usp=sharing)<br>
+> My final Geology Paper, limited to two pages. I am especially proud of this paper since my Professor called it brilliant. 
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
