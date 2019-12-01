@@ -19,7 +19,7 @@
 
 ### Publications
 
-- [Reducing the Gender Gap in Computer Science Field] A fianl assignment for my anthropolgy elective at CSUF(https://docs.google.com/document/d/1boJjuz_EXl5NysF5Fk5IctrHRzbRVXD45aqqCzaP4W8/edit?usp=sharing)
+- [Reducing the Gender Gap in Computer Science Field](https://docs.google.com/document/d/1boJjuz_EXl5NysF5Fk5IctrHRzbRVXD45aqqCzaP4W8/edit?usp=sharing)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
