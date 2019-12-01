@@ -6,8 +6,8 @@
 
 [Halloween Pumpkin Punter](https://youtu.be/9I2mWTbRupM)<br><br>
 Pumpkin Punter is based upon a group project from IESD. The goal is to reach all the tombstones while kicking pumpkins out of the way. I learned to create assets with actions and to create a custom first person camera that interacts with the environment. <br> <br>
+<img src="images/dummy_thumbnail.jpg?raw=true"/><br>
 [Link to GitHub Project Page](https://github.com/jenniferafelton/Spout)<br><br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
