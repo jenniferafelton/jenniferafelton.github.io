@@ -20,7 +20,8 @@
 ### Publications
 
 - [Reducing the Gender Gap in Computer Science Field](https://docs.google.com/document/d/1boJjuz_EXl5NysF5Fk5IctrHRzbRVXD45aqqCzaP4W8/edit?usp=sharing)<br>
->This is the final paper for the anthropology elective I took. It covers how the gender gap in computer science could be lessened and >relates it to the anthropology field. 
+>This is the final paper for the anthropology elective I took. By examining the factors that contribute to this gender gap, steps can be taken to minimize them and encourage more women to choose the computer science field. 	
+
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
