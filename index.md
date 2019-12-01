@@ -5,7 +5,7 @@
 ### Projects
 
 [Halloween Pumpkin Punter](https://youtu.be/9I2mWTbRupM)<br>
-Pumpkin Punter is based upon a group project from IESD. The goal is to reach all the tombstones while kicking pumpkins out of the way. I learned to create assets with actions and to create a custom first person camera that interacts with the environment. <br> 
+Pumpkin Punter is based upon a group project from IESD. The goal is to reach all the tombstones while kicking pumpkins out of the way. I learned to create assets with actions and to create a custom first person camera that interacts with the environment. <br> <br>
 [Link to GitHub Project Page](https://github.com/jenniferafelton/Spout)<br><br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -25,8 +25,13 @@ Pumpkin Punter is based upon a group project from IESD. The goal is to reach all
 >This is the final paper for the anthropology elective I took. By examining the factors that contribute to this gender gap, steps can be taken to minimize them and encourage more women to choose the computer science field. 	<br>
 
 - [Geologic Treasure at the End of the Rainbow](https://docs.google.com/document/d/1YBmk2dLzxUQRxbssDXbBetKHuiNFJ9vJGA-3pGm-EzA/edit?usp=sharing)<br>
-> My final Geology Paper from Geologic Field Studies. The assignment was challenging because it was limited to two pages.  
+> My final Geology Paper from Geologic Field Studies. The assignment was challenging because it was limited to two pages.  <br>
 
+- [Pokerrrr2 Software Requirements Specification](https://google.com)<br>
+> Group SRS on an existing App, Pokerrrr2. <br>
+
+- [Hearthstore Software Requirements Specification](https://hearthstone.com)<br>
+> Individual SRS on the Blizzard Hearthstone game. <br>
 
 
 
