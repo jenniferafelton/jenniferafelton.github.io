@@ -24,7 +24,11 @@ Pumpkin Punter is based upon a group project from IESD. The goal is to reach all
 >This is the final paper for the anthropology elective I took. By examining the factors that contribute to this gender gap, steps can be taken to minimize them and encourage more women to choose the computer science field. 	<br>
 
 - [Geologic Treasure at the End of the Rainbow](https://docs.google.com/document/d/1YBmk2dLzxUQRxbssDXbBetKHuiNFJ9vJGA-3pGm-EzA/edit?usp=sharing)<br>
-> My final Geology Paper, limited to two pages. I am especially proud of this paper since my Professor called it brilliant. 
+> My final Geology Paper from Geologic Field Studies. The assignment was challenging because it was limited to two pages.  
+
+
+
+
 
 
 ---
