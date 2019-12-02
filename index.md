@@ -6,7 +6,7 @@
 
 [Halloween Pumpkin Punter](https://jenniferafelton.github.io/Pumpkin_Punter/)<br><br>
 Pumpkin Punter is based upon a group project from IESD. The goal is to reach all the tombstones while kicking pumpkins out of the way. I learned to create assets with actions and to create a custom first person camera that interacts with the environment. <br> <br>
-<img src="images/pp1.jpg?raw=true"/><br>
+<img src="images/pp1.jpg?"/><br>
 
 
 ---
@@ -57,5 +57,5 @@ Pumpkin Punter is based upon a group project from IESD. The goal is to reach all
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!--<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
