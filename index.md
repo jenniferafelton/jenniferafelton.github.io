@@ -8,15 +8,16 @@
 Pumpkin Punter is based upon a group project from IESD. The goal is to reach all the tombstones while kicking pumpkins out of the way. I learned to create assets with actions and to create a custom first person camera that interacts with the environment. <br> <br>
 <img src="images/pp1.JPG"/><br>
 
+---
+[Shellanore the Vorpal Hexapod](https://vorpalrobotics.com/wiki/index.php/Vorpal_The_Hexapod) <br><br>
+Shellanore is a Vorpal Hexapod robot. Vorpal The Hexapod is a low cost, easy to build hexapod that includes a Bluetooth gamepad.
+<img src="images/shelly.jpg?raw=true"/>
 
 ---
 [Citizen Science Volunteer at Lake Perris](http://www.parks.ca.gov/?page_id=651)<br><br>
 Mapping Biodiversity at Lake Perris using the iNaturalist app, Google AIY and Drone technology. I also help with technical support for Agents of Discovery. <br><br>
 <img src="images/perrisNight.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
