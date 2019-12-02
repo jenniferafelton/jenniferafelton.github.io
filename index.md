@@ -10,8 +10,8 @@ Pumpkin Punter is based upon a group project from IESD. The goal is to reach all
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Lake Perris Biodiversity Mapping](/pdf/sample_presentation.pdf)
+<img src="images/perrisNight.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
