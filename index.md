@@ -10,7 +10,8 @@ Pumpkin Punter is based upon a group project from IESD. The goal is to reach all
 
 
 ---
-[Lake Perris Biodiversity Mapping](/pdf/sample_presentation.pdf)
+[Citizen Science Volunteer at Lake Perris](/pdf/sample_presentation.pdf)<br><br>
+Mapping Biodiversity at Lake Perris using the iNaturalist app, Google AIY and Drone technology. I also help with technical support for Agents of Discovery. <br><br>
 <img src="images/perrisNight.jpg?raw=true"/>
 
 ---
