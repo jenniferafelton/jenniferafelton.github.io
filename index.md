@@ -29,10 +29,10 @@ Mapping Biodiversity at Lake Perris using the iNaturalist app, Google AIY and Dr
 - [Geologic Treasure at the End of the Rainbow](https://docs.google.com/document/d/1YBmk2dLzxUQRxbssDXbBetKHuiNFJ9vJGA-3pGm-EzA/edit?usp=sharing)<br>
   > My final Geology Paper from Geologic Field Studies. The assignment was challenging because it was limited to two pages.  <br>
 
-- [Pokerrrr2 Software Requirements Specification](https://google.com)<br>
+- [Pokerrrr2 Software Requirements Specification](https://docs.google.com/document/d/1dtXXftm29LFOv6M2zyZtUYGKYGc5uqRH2yOWjhkd8Fc/edit?usp=sharing)<br>
   > Group SRS on an existing App, Pokerrrr2. <br>
 
-- [Hearthstore Software Requirements Specification](https://hearthstone.com)<br>
+- [Hearthstore Software Requirements Specification](https://docs.google.com/document/d/1gNrx6BBeK1yqtoQ-c8AUObGr73UY80jtXOv6hKtFbt8/edit?usp=sharing)<br>
   > Individual SRS on the Blizzard Hearthstone game. <br>
 
 
