@@ -1,11 +1,8 @@
 title: Jennifer Felton # your name (or website title) here
-logo: "/images/dronephoto.png" # your photo (or logo) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Computer Science student at California State University, Fullerton. Expected graduation Spring of 2021. 
-  <br><br>
-  Interested in game design, augmented reality and AI.
+  Computer Science student at California State University, Fullerton; currently pursing intrests in game design, augmented reality and AI. 
   <br><br>
   <a href="https://www.linkedin.com/in/jenniferafelton/">View My LinkedIn Profile</a> 
   
-  
-  theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
