@@ -6,7 +6,7 @@
 
 [Tuffy Track](https://jenniferafelton.github.io/TuffyTrack/)<br><br>
 TuffyTrack is a group project I worked on for Spring 2020 Software Development with Open Source class at California State Fullerton. The requirements were for a group of 2-3 students to make a project using Open Source Software, using existing Open Source software and code written by our group. It must use CASE tools, version control software, and include documentation.   <br> <br>
-<(https://img.youtube.com/watch?v=PpVLFv9TMiA&t=1s)](https://youtu.be/PpVLFv9TMiA "Tuffy Track")><br>
+<(https://youtu.be/PpVLFv9TMiA "Tuffy Track")><br>
 
 ---
 [Halloween Pumpkin Punter](https://jenniferafelton.github.io/Pumpkin_Punter/)<br><br>
