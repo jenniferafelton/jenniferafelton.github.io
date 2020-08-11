@@ -23,7 +23,7 @@ Pumpkin Punter is based upon a group project from IESD. The goal is to reach all
 ### Publications
 
 
-- [Pokerrrr2 Software Requirements Specification](https://docs.google.com/document/d/1dtXXftm29LFOv6M2zyZtUYGKYGc5uqRH2yOWjhkd8Fc/edit?usp=sharing)<br>
+- [Pokerrrr2 Software Requirements Specification](/pdf/SRS_Final_Draft.pdf)<br>
   > Group SRS on an existing App, Pokerrrr2. <br>
 
 - [Hearthstore Software Requirements Specification](https://docs.google.com/document/d/1gNrx6BBeK1yqtoQ-c8AUObGr73UY80jtXOv6hKtFbt8/edit?usp=sharing)<br>
