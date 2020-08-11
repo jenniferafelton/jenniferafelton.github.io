@@ -9,9 +9,7 @@ TuffyTrack is a group project I worked on for Spring 2020 Software Development w
 <img src="images/tt.PNG"/><br><br>
 
 ---
-[Halloween Pumpkin Punter](https://jenniferafelton.github.io/Pumpkin_Punter/)<br><br>
-Pumpkin Punter is based upon a group project from IESD. The goal is to reach all the tombstones while kicking pumpkins out of the way. I learned to create assets with actions and to create a custom first person camera that interacts with the environment.<br><br>
-<img src="images/pp1.JPG"/><br>
+
 
 
 ---
@@ -22,17 +20,19 @@ Pumpkin Punter is based upon a group project from IESD. The goal is to reach all
 
 ### Publications
 
-
-- [Pokerrrr2 Software Requirements Specification](/pdf/SRS_Final_Draft.pdf)<br>
+- [Synthetic Data for AI Training](https://jenniferafelton.github.io/pdf/Final_Draft_Colabborative_Paper_v3.pdf)<br>
+  > Group paper considering the ethics of using Syntheic Data in AI training. <br>
+  
+- [Pokerrrr2 Software Requirements Specification](https://jenniferafelton.github.io/pdf/SRS_Final_Draft.pdf)<br>
   > Group SRS on an existing App, Pokerrrr2. <br>
 
-- [Hearthstore Software Requirements Specification](https://docs.google.com/document/d/1gNrx6BBeK1yqtoQ-c8AUObGr73UY80jtXOv6hKtFbt8/edit?usp=sharing)<br>
+- [Hearthstore Software Requirements Specification](https://jenniferafelton.github.io/pdf/Hearthstone_SRS.pdf)<br>
   > Individual SRS on the Blizzard Hearthstone game. <br>
 
-- [Reducing the Gender Gap in Computer Science Field](https://docs.google.com/document/d/1boJjuz_EXl5NysF5Fk5IctrHRzbRVXD45aqqCzaP4W8/edit?usp=sharing)<br>
+- [Reducing the Gender Gap in Computer Science Field](https://jenniferafelton.github.io/pdf/Reducing_Gender_Gap_CS_Field.pdf)<br>
   > This is the final paper for the anthropology elective I took. By examining the factors that contribute to this gender gap, steps can be taken to minimize them and encourage more women to choose the computer science field. 	<br>
 
-- [Geologic Treasure at the End of the Rainbow](https://docs.google.com/document/d/1YBmk2dLzxUQRxbssDXbBetKHuiNFJ9vJGA-3pGm-EzA/edit?usp=sharing)<br>
+- [Geologic Treasure at the End of the Rainbow](https://jenniferafelton.github.io/pdf/Geologic Treasure at the End of the Rainbow.pdf)<br>
   > My final Geology Paper from Geologic Field Studies. The assignment was challenging because it was limited to two pages.  <br>
 
 
