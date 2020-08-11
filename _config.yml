@@ -7,6 +7,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/jenniferafelton/">View My LinkedIn Profile</a> 
   <br><br>
-  <!--- <a href="https://jenniferafelton.github.io/blog/">View My Blog</a> --->
+  <!-- <a href="https://jenniferafelton.github.io/blog/">View My Blog</a> 
   <br><br>
 theme: jekyll-theme-minimal
