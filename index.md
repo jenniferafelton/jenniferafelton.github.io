@@ -32,7 +32,7 @@ TuffyTrack is a group project I worked on for Spring 2020 Software Development w
 - [Reducing the Gender Gap in Computer Science Field](https://jenniferafelton.github.io/pdf/Reducing_Gender_Gap_CS_Field.pdf)<br>
   > This is the final paper for the anthropology elective I took. By examining the factors that contribute to this gender gap, steps can be taken to minimize them and encourage more women to choose the computer science field. 	<br>
 
-- [Geologic Treasure at the End of the Rainbow](https://jenniferafelton.github.io/pdf/Geologic Treasure at the End of the Rainbow.pdf)<br>
+- [Geologic Treasure at the End of the Rainbow](https://jenniferafelton.github.io/pdf/Geologic%20Treasure%20at%20the%20End%20of%20the%20Rainbow.pdf)<br>
   > My final Geology Paper from Geologic Field Studies. The assignment was challenging because it was limited to two pages.  <br>
 
 
